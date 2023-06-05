@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SOLID_I_Interface_Sefregation_Princeple.ConsoleLib\SOLID_I_Interface_Sefregation_Princeple.ConsoleLib.csproj" />
+      <ProjectReference Include="..\SOLID_I_Interface_Segregation_Princeple.Lib\SOLID_I_Interface_Segregation_Princeple.Lib.csproj" />
+    </ItemGroup>
+
+</Project>

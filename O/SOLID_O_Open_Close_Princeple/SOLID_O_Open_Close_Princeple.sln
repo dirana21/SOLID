@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_O_Open_Close_Princeple", "SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple.csproj", "{E11CF9DC-E9DF-4F11-97C2-94029E0DA61B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLID_O_Open_Close_Princeple_Console", "SOLID_O_Open_Close_Princeple_Console\SOLID_O_Open_Close_Princeple_Console.csproj", "{4B72ACA5-4B8B-4192-A6F0-5D2FB31A0591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E11CF9DC-E9DF-4F11-97C2-94029E0DA61B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11CF9DC-E9DF-4F11-97C2-94029E0DA61B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11CF9DC-E9DF-4F11-97C2-94029E0DA61B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11CF9DC-E9DF-4F11-97C2-94029E0DA61B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B72ACA5-4B8B-4192-A6F0-5D2FB31A0591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B72ACA5-4B8B-4192-A6F0-5D2FB31A0591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B72ACA5-4B8B-4192-A6F0-5D2FB31A0591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B72ACA5-4B8B-4192-A6F0-5D2FB31A0591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

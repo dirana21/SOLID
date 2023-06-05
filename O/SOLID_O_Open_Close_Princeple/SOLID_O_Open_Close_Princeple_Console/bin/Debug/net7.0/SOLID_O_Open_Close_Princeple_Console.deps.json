@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "SOLID_O_Open_Close_Princeple_Console/1.0.0": {
+        "dependencies": {
+          "SOLID_O_Open_Close_Princeple": "1.0.0"
+        },
+        "runtime": {
+          "SOLID_O_Open_Close_Princeple_Console.dll": {}
+        }
+      },
+      "SOLID_O_Open_Close_Princeple/1.0.0": {
+        "runtime": {
+          "SOLID_O_Open_Close_Princeple.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOLID_O_Open_Close_Princeple_Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SOLID_O_Open_Close_Princeple/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

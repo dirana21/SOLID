@@ -1,0 +1,12 @@
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\bin\Debug\net7.0\SOLID_O_Open_Close_Princeple.deps.json
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\bin\Debug\net7.0\SOLID_O_Open_Close_Princeple.dll
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\bin\Debug\net7.0\SOLID_O_Open_Close_Princeple.pdb
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.csproj.AssemblyReference.cache
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.GeneratedMSBuildEditorConfig.editorconfig
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.AssemblyInfoInputs.cache
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.AssemblyInfo.cs
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.csproj.CoreCompileInputs.cache
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.dll
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\refint\SOLID_O_Open_Close_Princeple.dll
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\SOLID_O_Open_Close_Princeple.pdb
+D:\RiderProject\SOLID\O\SOLID_O_Open_Close_Princeple\SOLID_O_Open_Close_Princeple\obj\Debug\net7.0\ref\SOLID_O_Open_Close_Princeple.dll
